@@ -9,7 +9,7 @@
 
 ## Execute
 
-Para baixar a imagem 
+A imagem se encontra em **docker.io/fahds1993/codeeducation**
 
 ## Author
 
