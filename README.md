@@ -9,19 +9,20 @@
 
 ## Execute
 
-A imagem se encontra em **docker.io/fahds1993/codeeducation**
+A imagem se encontra em **https://hub.docker.com/r/fahds1993/codeeducation**
 
 ## Author
 
 👤 **Fábio Santos**
 
-* Twitter: [@fabioods](https://twitter.com/fabioods)
-* Github: [@fabioods](https://github.com/fabioods)
-* LinkedIn: [@fabioods](https://linkedin.com/in/fabioods)
+- Twitter: [@fabioods](https://twitter.com/fabioods)
+- Github: [@fabioods](https://github.com/fabioods)
+- LinkedIn: [@fabioods](https://linkedin.com/in/fabioods)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
